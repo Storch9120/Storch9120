@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Mobile Robots (Drones, Rovers), Manipulators**
 
-- 🔭 I’m currently working on **ROS2**
+- 🔭 I’m currently working on **Migration of Vishwa Mars Rover from ROS1 to ROS2**
 
 - 📫 Contact Me **sharma.satvik8520@gmail.com**
 
